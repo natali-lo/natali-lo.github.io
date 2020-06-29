@@ -5,6 +5,7 @@ Your privacy is very important to us, and we take it seriously. Please read our 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use next applications (Service):
 
 [Dino T-Rex](https://play.google.com/store/apps/details?id=com.deerslab.dinoTREX)
+
 [Draw it if you can](https://play.google.com/store/apps/details?id=skvo.quickdraw)
 
 If you choose to use the Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that We collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
